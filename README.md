@@ -8,4 +8,5 @@ Breakout boards for the Seeed Studio XIAO nRF52840 (Xiao BLE) and up to two 74HC
 
 *XioaBLE__2xSR_TH* uses the throuh hole version of the 74HC595 Shift register, all other components are the same.
 
+*status: PCB's in production, untested.*
 
